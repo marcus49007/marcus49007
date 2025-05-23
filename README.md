@@ -32,9 +32,7 @@ A passionate **Android Developer**, **Python Enthusiast**, and **Machine Learnin
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: marcusstacy.dev@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcusstacy)
-- 📱 GitHub: [@MarcusStacy](https://github.com/MarcusStacy)
+- 📱 GitHub: [@marcus49007](https://github.com/marcus49007)
 
 ---
 
