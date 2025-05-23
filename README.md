@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Marcus Stacy
+# 👋 Hi there, I'm Marcus Stacey
 
 A passionate **Android Developer**, **Python Enthusiast**, and **Machine Learning Explorer** 🚀
 
